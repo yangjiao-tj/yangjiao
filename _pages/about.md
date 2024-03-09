@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Ph.D. student at the Department of Computer Sciences and Technology, Tongji University.
+I’m a Ph.D. student at the Department of Computer Sciences and Technology, Tongji University. My research interests include distributed optimization, nested optimization, and machine learning. I received the B.S. degree from Central South University, Changsha, China, in 2020.
 
 Published Works
 ======
