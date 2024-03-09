@@ -20,9 +20,9 @@ Published Works
 
 ***Y Jiao***, K Yang, et al. [TimeAutoAD: Autonomous Anomaly Detection With Self-Supervised Contrastive Loss for Multivariate Time Series](https://ieeexplore.ieee.org/abstract/document/9705079) [J]. **IEEE Transactions on Network Science and Engineering**, 2022, 9(3): 1604-1619. 
 
-K Huang, ***Y Jiao***, et al. Robust network structure reconstruction based on Bayesian compressive sensing[J]. Chaos: An Interdisciplinary Journal of Nonlinear Science, 2019, 29(9): 093119.
+K Huang, ***Y Jiao***, et al. [Robust network structure reconstruction based on Bayesian compressive sensing](https://pubs.aip.org/aip/cha/article-abstract/29/9/093119/341804/Robust-network-structure-reconstruction-based-on?redirectedFrom=fulltext) [J]. Chaos: An Interdisciplinary Journal of Nonlinear Science, 2019, 29(9): 093119.
 
-P Han, S Wang, ***Y Jiao***, J Huang. Federated Learning While Providing Model as a Service: Joint Training and Inference Optimization. (**IEEE INFOCOM 2024**)
+P Han, S Wang, ***Y Jiao***, J Huang. [Federated Learning While Providing Model as a Service: Joint Training and Inference Optimization](https://arxiv.org/pdf/2312.11835v2.pdf). (**IEEE INFOCOM 2024**)
 
 S Dou, K Yang, P Luo, ***Y Jiao***. Unsupervised anomaly detection in heterogeneous network time series with mixed sampling rates[C]//Proc. IJCAI Workshop AI Internet Things. 2020.
 
