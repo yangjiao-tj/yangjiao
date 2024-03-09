@@ -18,7 +18,7 @@ $\underline{Y Jiao}$, K Yang, et al. Asynchronous Distributed Bilevel Optimizati
 
 $\underline{Y Jiao}$, K Yang, et al. Provably Convergent Federated Trilevel Learning. (**AAAI 2024**) 
 
-$\underline{Y Jiao}$, K Yang, et al. TimeAutoAD: Autonomous Anomaly Detection With Self-Supervised Contrastive Loss for Multivariate Time Series[J]. **IEEE Transactions** on Network Science and Engineering, 2022, 9(3): 1604-1619. 
+$\underline{Y Jiao}$, K Yang, et al. [TimeAutoAD: Autonomous Anomaly Detection With Self-Supervised Contrastive Loss for Multivariate Time Series](https://ieeexplore.ieee.org/abstract/document/9705079) [J]. **IEEE Transactions** on Network Science and Engineering, 2022, 9(3): 1604-1619. 
 
 K Huang, $\underline{Y Jiao}$, et al. Robust network structure reconstruction based on Bayesian compressive sensing[J]. Chaos: An Interdisciplinary Journal of Nonlinear Science, 2019, 29(9): 093119.
 
