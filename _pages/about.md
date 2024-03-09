@@ -18,7 +18,7 @@ Published Works
 
 ***Y Jiao***, K Yang, et al. Provably Convergent Federated Trilevel Learning. (**AAAI 2024**) 
 
-***Y Jiao***, K Yang, et al. [TimeAutoAD: Autonomous Anomaly Detection With Self-Supervised Contrastive Loss for Multivariate Time Series](https://ieeexplore.ieee.org/abstract/document/9705079) [J]. **IEEE Transactions** on Network Science and Engineering, 2022, 9(3): 1604-1619. 
+***Y Jiao***, K Yang, et al. [TimeAutoAD: Autonomous Anomaly Detection With Self-Supervised Contrastive Loss for Multivariate Time Series](https://ieeexplore.ieee.org/abstract/document/9705079) [J]. **IEEE Transactions on Network Science and Engineering**, 2022, 9(3): 1604-1619. 
 
 K Huang, ***Y Jiao***, et al. Robust network structure reconstruction based on Bayesian compressive sensing[J]. Chaos: An Interdisciplinary Journal of Nonlinear Science, 2019, 29(9): 093119.
 
@@ -28,23 +28,23 @@ S Dou, K Yang, P Luo, ***Y Jiao***. Unsupervised anomaly detection in heterogene
 
 Conference & Journal Reviewers
 ======
-Reviewer at NeurIPS 2023.
+Reviewer at **NeurIPS 2023**.
 
-Reviewer at ICLR 2023. 
+Reviewer at **ICLR 2023**. 
 
-Reviewer at ICML 2024. 
+Reviewer at **ICML 2024**. 
 
-PC member at IJCAI 2024. 
+PC member at **IJCAI 2024**. 
 
-PC member at AI4TS workshop in ICDM. 
+PC member at **AI4TS workshop in ICDM**. 
 
-PC member at AI4TS workshop in AAAI. 
+PC member at **AI4TS workshop in AAAI**. 
 
-Reviewer at IEEE Transactions on Intelligent Vehicles. 
+Reviewer at **IEEE Transactions on Intelligent Vehicles**. 
 
-Reviewer at IEEE Transactions on Emerging Topics in Computational Intelligence. 
+Reviewer at **IEEE Transactions on Emerging Topics in Computational Intelligence**. 
 
-Reviewer at Neurocomputing. 
+Reviewer at **Neurocomputing**. 
 
 Awards
 ======
