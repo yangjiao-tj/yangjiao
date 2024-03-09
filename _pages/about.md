@@ -12,9 +12,9 @@ I’m a Ph.D. student at the Department of Computer Sciences and Technology, Ton
 
 Published Works
 ======
-***Y Jiao***, K Yang, et al. [Distributed Distributionally Robust Optimization with Non-Convex Objectives](https://github.com/yangjiao-tj/yangjiao.github.io/blob/master/assets/NeurIPS-2022.pdf). Advances in Neural Information Processing Systems 36. (**NeurIPS 2022**). 
+***Y Jiao***, K Yang, et al. [Distributed Distributionally Robust Optimization with Non-Convex Objectives](https://proceedings.neurips.cc/paper_files/paper/2022/file/34899013589ef41aea4d7b2f0ef310c1-Paper-Conference.pdf). Advances in Neural Information Processing Systems 36. (**NeurIPS 2022**). 
 
-***Y Jiao***, K Yang, et al. Asynchronous Distributed Bilevel Optimization. Eleventh International Conference on Learning Representations. (**ICLR 2023**) 
+***Y Jiao***, K Yang, et al. [Asynchronous Distributed Bilevel Optimization](https://openreview.net/pdf?id=_i0-12XqVJZ). Eleventh International Conference on Learning Representations. (**ICLR 2023**) 
 
 ***Y Jiao***, K Yang, et al. [Provably Convergent Federated Trilevel Learning](https://arxiv.org/pdf/2312.11835v2.pdf). (**AAAI 2024**) 
 
