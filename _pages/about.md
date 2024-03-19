@@ -40,6 +40,8 @@ PC member at **AI4TS workshop in ICDM**.
 
 PC member at **AI4TS workshop in AAAI**. 
 
+Reviewer at **APATN workshop in ICC 2024**.
+
 Reviewer at **IEEE Transactions on Intelligent Vehicles**. 
 
 Reviewer at **IEEE Transactions on Emerging Topics in Computational Intelligence**. 
