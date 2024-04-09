@@ -16,7 +16,7 @@ Published Works
 
 ***Y Jiao***, K Yang, et al. [Asynchronous Distributed Bilevel Optimization](https://openreview.net/pdf?id=_i0-12XqVJZ). Eleventh International Conference on Learning Representations. (**ICLR 2023**) 
 
-***Y Jiao***, K Yang, et al. [Provably Convergent Federated Trilevel Learning](https://arxiv.org/pdf/2312.11835v2.pdf). (**AAAI 2024**) 
+***Y Jiao***, K Yang, et al. [Provably Convergent Federated Trilevel Learning](https://ojs.aaai.org/index.php/AAAI/article/view/29190). (**AAAI 2024**) 
 
 ***Y Jiao***, K Yang, et al. [TimeAutoAD: Autonomous Anomaly Detection With Self-Supervised Contrastive Loss for Multivariate Time Series](https://ieeexplore.ieee.org/abstract/document/9705079) [J]. **IEEE Transactions on Network Science and Engineering**, 2022, 9(3): 1604-1619. 
 
