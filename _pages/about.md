@@ -42,6 +42,8 @@ Reviewer at **APATN workshop in ICC 2024**.
 
 Reviewer at **IEEE Transactions on Intelligent Vehicles**. 
 
+Reviewer at **IEEE Transactions on Network Science and Engineering**. 
+
 Reviewer at **IEEE Transactions on Emerging Topics in Computational Intelligence**. 
 
 Reviewer at **Neurocomputing**. 
@@ -58,3 +60,8 @@ Outstanding Student of Central South University
 Central South University Scholarship
 
 Outstanding Graduate of Central South University
+
+News
+======
+
+[2024/04] Invited to serve as a Reviewer in IEEE Transactions on Network Science and Engineering
