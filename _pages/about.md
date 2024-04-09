@@ -64,4 +64,4 @@ Outstanding Graduate of Central South University
 News
 ======
 
-[2024/04] Invited to serve as a Reviewer in IEEE Transactions on Network Science and Engineering
+[2024/04] Invited to serve as Reviewer in IEEE Transactions on Network Science and Engineering.
