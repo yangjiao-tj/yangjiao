@@ -26,11 +26,13 @@ P Han, S Wang, ***Y Jiao***, J Huang. [Federated Learning While Providing Model 
 
 Conference & Journal Reviewers
 ======
-Reviewer at **NeurIPS 2023**.
+Reviewer at **NeurIPS 2023, 2024**.
 
 Reviewer at **ICLR 2023**. 
 
 Reviewer at **ICML 2024**. 
+
+Reviewer at **Globecom 2024**.
 
 PC member at **IJCAI 2024**. 
 
@@ -63,5 +65,9 @@ Outstanding Graduate of Central South University
 
 News
 ======
+
+[2024/05] Invited to serve as Reviewer in NeurIPS 2024.
+
+[2024/05] Invited to serve as Reviewer in Globecom 2024.
 
 [2024/04] Invited to serve as Reviewer in IEEE Transactions on Network Science and Engineering.
