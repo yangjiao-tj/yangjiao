@@ -26,7 +26,9 @@ P Han, S Wang, ***Y Jiao***, J Huang. [Federated Learning While Providing Model 
 
 Conference & Journal Reviewers
 ======
-Reviewer at **NeurIPS 2023, 2024**.
+Reviewer at **NeurIPS 2023**.
+
+Reviewer at **NeurIPS 2024**.
 
 Reviewer at **ICLR 2023**. 
 
@@ -34,13 +36,15 @@ Reviewer at **ICML 2024**.
 
 Reviewer at **Globecom 2024**.
 
-PC member at **IJCAI 2024**. 
+Reviewer/PC member at **IJCAI 2024**. 
 
-PC member at **AI4TS workshop in ICDM**. 
+Reviewer/PC member at **AI4TS workshop in ICDM**. 
 
-PC member at **AI4TS workshop in AAAI**. 
+Reviewer/PC member at **AI4TS workshop in AAAI**. 
 
 Reviewer at **APATN workshop in ICC 2024**.
+
+Reviewer at **Sixth Artificial Intelligence for Time Series Analysis (AI4TS) in IJCAI 2024**.
 
 Reviewer at **IEEE Transactions on Intelligent Vehicles**. 
 
@@ -65,6 +69,7 @@ Outstanding Graduate of Central South University
 
 News
 ======
+[2024/05] Invited to serve as Reviewer in Sixth Artificial Intelligence for Time Series Analysis (AI4TS) in IJCAI 2024.
 
 [2024/05] Invited to serve as Reviewer in NeurIPS 2024.
 
