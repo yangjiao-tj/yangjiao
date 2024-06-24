@@ -10,6 +10,8 @@ redirect_from:
 
 I’m a Ph.D. student at the Department of Computer Sciences and Technology, Tongji University. My advisor is Prof. [Kai Yang](https://scholar.google.com/citations?user=irQuUaYAAAAJ&hl=zh-CN&oi=sra). My research interests include distributed optimization, nested optimization, and machine learning. I received the B.S. degree from Central South University, Changsha, China, in 2020. I was a visiting Ph.D. at CUHK Shenzhen in 2023 and my co-advisor is Prof. [Jianwei Huang](https://jianwei.cuhk.edu.cn/).
 
+I'm currently a visiting Ph.D. student at Columbia University in the City of New York, under the guidance of Professor Xiaodong Wang.
+
 Published Works
 ======
 ***Y Jiao***, K Yang, et al. [Distributed Distributionally Robust Optimization with Non-Convex Objectives](https://proceedings.neurips.cc/paper_files/paper/2022/file/34899013589ef41aea4d7b2f0ef310c1-Paper-Conference.pdf). Advances in Neural Information Processing Systems 36. (**NeurIPS 2022**). 
