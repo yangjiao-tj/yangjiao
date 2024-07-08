@@ -54,6 +54,8 @@ Reviewer at **IEEE Transactions on Network Science and Engineering**.
 
 Reviewer at **IEEE Transactions on Emerging Topics in Computational Intelligence**. 
 
+Reviewer at **IEEE Internet of Things Journal**. 
+
 Reviewer at **Neurocomputing**. 
 
 Awards
@@ -71,6 +73,10 @@ Outstanding Graduate of Central South University
 
 News
 ======
+[2024/07] Invited to serve as Reviewer in IEEE Internet of Things Journal.
+
+[2024/06] I'm currently a visiting Ph.D. student at Columbia University in the City of New York, under the guidance of Professor Xiaodong Wang.
+
 [2024/05] Invited to serve as Reviewer in Sixth Artificial Intelligence for Time Series Analysis (AI4TS) in IJCAI 2024.
 
 [2024/05] Invited to serve as Reviewer in NeurIPS 2024.
