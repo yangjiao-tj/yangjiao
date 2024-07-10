@@ -46,7 +46,7 @@ Reviewer/PC member at **AI4TS workshop in AAAI**.
 
 Reviewer at **APATN workshop in ICC 2024**.
 
-Reviewer at **Sixth Artificial Intelligence for Time Series Analysis (AI4TS) in IJCAI 2024**.
+Reviewer at **AI4TS in IJCAI 2024**.
 
 Reviewer at **IEEE Transactions on Intelligent Vehicles**. 
 
