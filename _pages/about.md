@@ -40,6 +40,8 @@ Reviewer at **Globecom 2024**.
 
 Reviewer/PC member at **IJCAI 2024**. 
 
+Reviewer/PC member at **AAAI 2025**. 
+
 Reviewer/PC member at **AI4TS workshop in ICDM**. 
 
 Reviewer/PC member at **AI4TS workshop in AAAI**. 
@@ -73,6 +75,8 @@ Outstanding Graduate of Central South University
 
 News
 ======
+[2024/07] Invited to serve as Reviewer in AAAI 2025.
+
 [2024/07] Invited to serve as Reviewer in IEEE Internet of Things Journal.
 
 [2024/06] I'm currently a visiting Ph.D. student at Columbia University in the City of New York, under the guidance of Professor Xiaodong Wang.
