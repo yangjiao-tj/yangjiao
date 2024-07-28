@@ -26,6 +26,8 @@ K Huang, ***Y Jiao***, et al. [Robust network structure reconstruction based on 
 
 P Han, S Wang, ***Y Jiao***, J Huang. [Federated Learning While Providing Model as a Service: Joint Training and Inference Optimization](https://arxiv.org/pdf/2312.12863v2.pdf). (**IEEE INFOCOM 2024**)
 
+S Dou, K Yang, ***Y Jiao***, C Qiu, K Ren. [Anomaly Detection in Event-triggered Traffic Time Series via Similarity Learning](https://arxiv.org/pdf/2312.12863v2.pdf). (**IEEE Transactions on Dependable and Secure Computing**)
+
 Conference & Journal Reviewers
 ======
 Reviewer at **NeurIPS 2023**.
