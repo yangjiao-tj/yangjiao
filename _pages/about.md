@@ -34,7 +34,9 @@ Reviewer at **NeurIPS 2023**.
 
 Reviewer at **NeurIPS 2024**.
 
-Reviewer at **ICLR 2023**. 
+Reviewer at **ICLR 2024**. 
+
+Reviewer at **ICLR 2025**. 
 
 Reviewer at **ICML 2024**. 
 
@@ -77,6 +79,8 @@ Outstanding Graduate of Central South University
 
 News
 ======
+[2024/08] Invited to serve as Reviewer in ICLR 2025.
+
 [2024/07] Invited to serve as Reviewer in AAAI 2025.
 
 [2024/07] Invited to serve as Reviewer in IEEE Internet of Things Journal.
