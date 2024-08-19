@@ -54,11 +54,13 @@ Reviewer at **APATN workshop in ICC 2024**.
 
 Reviewer at **AI4TS in IJCAI 2024**.
 
-Reviewer at **IEEE Transactions on Intelligent Vehicles**. 
+Reviewer at **IEEE Transactions on Knowledge and Data Engineering**. 
 
 Reviewer at **IEEE Transactions on Network Science and Engineering**. 
 
 Reviewer at **IEEE Transactions on Emerging Topics in Computational Intelligence**. 
+
+Reviewer at **IEEE Transactions on Intelligent Vehicles**. 
 
 Reviewer at **IEEE Internet of Things Journal**. 
 
@@ -79,6 +81,8 @@ Outstanding Graduate of Central South University
 
 News
 ======
+[2024/08] Invited to serve as Reviewer in IEEE Transactions on Knowledge and Data Engineering.
+
 [2024/08] Invited to serve as Reviewer in ICLR 2025.
 
 [2024/07] Invited to serve as Reviewer in AAAI 2025.
