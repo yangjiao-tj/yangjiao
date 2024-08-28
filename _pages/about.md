@@ -64,6 +64,8 @@ Reviewer at **IEEE Transactions on Intelligent Vehicles**.
 
 Reviewer at **IEEE Internet of Things Journal**. 
 
+Reviewer at **Pattern Recognition**. 
+
 Reviewer at **Neurocomputing**. 
 
 Awards
@@ -81,6 +83,8 @@ Outstanding Graduate of Central South University
 
 News
 ======
+[2024/08] Invited to serve as Reviewer in Pattern Recognition.
+
 [2024/08] Invited to serve as Reviewer in IEEE Transactions on Knowledge and Data Engineering.
 
 [2024/08] Invited to serve as Reviewer in ICLR 2025.
