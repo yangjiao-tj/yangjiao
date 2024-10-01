@@ -40,6 +40,8 @@ Reviewer at **ICLR 2025**.
 
 Reviewer at **ICML 2024**. 
 
+Reviewer at **AISTATS 2025**. 
+
 Reviewer at **Globecom 2024**.
 
 Reviewer/PC member at **IJCAI 2024**. 
@@ -83,6 +85,8 @@ Outstanding Graduate of Central South University
 
 News
 ======
+[2024/10] Invited to serve as Reviewer AISTATS 2025.
+
 [2024/08] Invited to serve as Reviewer in Pattern Recognition.
 
 [2024/08] Invited to serve as Reviewer in IEEE Transactions on Knowledge and Data Engineering.
