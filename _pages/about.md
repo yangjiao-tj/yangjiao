@@ -24,6 +24,8 @@ Published Works
 
 K Huang, ***Y Jiao***, et al. [Robust network structure reconstruction based on Bayesian compressive sensing](https://pubs.aip.org/aip/cha/article-abstract/29/9/093119/341804/Robust-network-structure-reconstruction-based-on?redirectedFrom=fulltext) [J]. Chaos: An Interdisciplinary Journal of Nonlinear Science, 2019, 29(9): 093119.
 
+C Jian, K Yang, ***Y Jiao***. Tri-Level Navigator: LLM-Empowered Tri-Level Learning for Time Series OOD Generalization. (**NeurIPS 2024**)
+
 P Han, S Wang, ***Y Jiao***, J Huang. [Federated Learning While Providing Model as a Service: Joint Training and Inference Optimization](https://arxiv.org/pdf/2312.12863v2.pdf). (**IEEE INFOCOM 2024**)
 
 S Dou, K Yang, ***Y Jiao***, C Qiu, K Ren. [Anomaly Detection in Event-triggered Traffic Time Series via Similarity Learning](https://ieeexplore.ieee.org/abstract/document/10571806)). (**IEEE Transactions on Dependable and Secure Computing**)
