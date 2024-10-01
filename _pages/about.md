@@ -75,6 +75,8 @@ Awards
 
 Outstanding Doctoral Scholarship at Tongji University
 
+Outstanding Ph.D. Student Short-Term  Overseas Research Funding at Tongji University
+
 Outstanding Student of Tongji University
 
 Outstanding Student of Central South University
