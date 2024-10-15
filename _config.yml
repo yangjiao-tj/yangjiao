@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo2.png"
+  avatar           : "photo2.jpg"
   name             : "Yang Jiao"
   pronouns         : # example: "he/his"  
   bio              : "Ph.D. student"
