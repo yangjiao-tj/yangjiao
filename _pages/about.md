@@ -89,7 +89,11 @@ Outstanding Graduate of Central South University
 
 News
 ======
-[2024/10] Invited to serve as Reviewer AISTATS 2025.
+[2024/12] Invited to serve as Reviewer in ICML 2025.
+
+[2024/12] Invited to serve as Reviewer in AI4TS workshop at AAAI 2025.
+
+[2024/10] Invited to serve as Reviewer in AISTATS 2025.
 
 [2024/08] Invited to serve as Reviewer in Pattern Recognition.
 
