@@ -8,7 +8,11 @@ redirect_from:
 ---
 
 
-I’m a Ph.D. student at the Department of Computer Sciences and Technology, Tongji University. My advisor is Prof. [Kai Yang](https://scholar.google.com/citations?user=irQuUaYAAAAJ&hl=zh-CN&oi=sra). My research interests include distributed optimization, nested optimization, and machine learning. I received the B.S. degree from Central South University, Changsha, China, in 2020. I was a visiting Ph.D. student at Columbia University in the City of New York, under the guidance of Professor [Xiaodong Wang](https://www.engineering.columbia.edu/faculty/xiaodong-wang). I was a visiting Ph.D. student at CUHK Shenzhen in 2023 and my co-advisor is Prof. [Jianwei Huang](https://jianwei.cuhk.edu.cn/).
+I’m a Ph.D. student at the Department of Computer Sciences and Technology, [Tongji University](https://en.tongji.edu.cn/p/#/). My advisor is Prof. [Kai Yang](https://scholar.google.com/citations?user=irQuUaYAAAAJ&hl=zh-CN&oi=sra). My research interests include distributed machine learning, bilevel optimization, robust optimization, and LLMs. I received the B.S. degree from Central South University, Changsha, China, in 2020. 
+
+I was a visiting Ph.D. student at [Columbia University](https://www.columbia.edu/), under the guidance of Prof. [Xiaodong Wang](https://www.engineering.columbia.edu/faculty/xiaodong-wang).
+
+I was a visiting Ph.D. student at [CUHK Shenzhen](https://www.cuhk.edu.cn/en), under the guidance of Prof. [Jianwei Huang](https://jianwei.cuhk.edu.cn/).
 
 Published Works
 ======
