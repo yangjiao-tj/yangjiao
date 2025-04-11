@@ -18,6 +18,8 @@ Published Works
 
 ***Y Jiao***, K Yang, et al. [Provably Convergent Federated Trilevel Learning](https://ojs.aaai.org/index.php/AAAI/article/view/29190). (**AAAI 2024**) 
 
+***Y Jiao***, X Wang, K Yang. [PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented Generation in Large Language Models via Bilevel Optimization](https://sigir2025.dei.unipd.it/call-full-papers.html). (**SIGIR 2025**)
+
 ***Y Jiao***, K Yang, et al. [TimeAutoAD: Autonomous Anomaly Detection With Self-Supervised Contrastive Loss for Multivariate Time Series](https://ieeexplore.ieee.org/abstract/document/9705079) [J]. **IEEE Transactions on Network Science and Engineering**, 2022, 9(3): 1604-1619. 
 
 K Huang, ***Y Jiao***, et al. [Robust network structure reconstruction based on Bayesian compressive sensing](https://pubs.aip.org/aip/cha/article-abstract/29/9/093119/341804/Robust-network-structure-reconstruction-based-on?redirectedFrom=fulltext) [J]. Chaos: An Interdisciplinary Journal of Nonlinear Science, 2019, 29(9): 093119.
@@ -93,6 +95,8 @@ Outstanding Graduate of Central South University
 
 News
 ======
+[2025/04] One paper has been accepted at SIGIR 2025.
+
 [2025/04] Invited to serve as Reviewer in IEEE Transactions on Mobile Computing.
 
 [2025/03] Invited to serve as Reviewer in Neural Networks.
