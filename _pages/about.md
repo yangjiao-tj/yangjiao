@@ -20,6 +20,8 @@ Published Works
 
 ***Y Jiao***, K Yang, et al. [Asynchronous Distributed Bilevel Optimization](https://openreview.net/pdf?id=_i0-12XqVJZ). Eleventh International Conference on Learning Representations. (**ICLR 2023**) 
 
+***Y Jiao***, K Yang, et al. [DTZO: Distributed Trilevel Zeroth Order Learning with Provable Non-Asymptotic Convergence](https://icml.cc/).  (**ICML 2025**) 
+
 ***Y Jiao***, K Yang, et al. [Provably Convergent Federated Trilevel Learning](https://ojs.aaai.org/index.php/AAAI/article/view/29190). (**AAAI 2024**) 
 
 ***Y Jiao***, X Wang, K Yang. [PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented Generation in Large Language Models via Bilevel Optimization](https://sigir2025.dei.unipd.it/call-full-papers.html). (**SIGIR 2025**)
@@ -99,6 +101,8 @@ Outstanding Graduate of Central South University
 
 News
 ======
+[2025/05] One paper has been accepted at ICML 2025.
+
 [2025/04] One paper has been accepted at SIGIR 2025.
 
 [2025/04] Invited to serve as Reviewer in IEEE Transactions on Mobile Computing.
