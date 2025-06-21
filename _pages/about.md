@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I’m a Ph.D. student at the Department of Computer Sciences and Technology, [Tongji University](https://en.tongji.edu.cn/p/#/). My advisor is Prof. [Kai Yang](https://scholar.google.com/citations?user=irQuUaYAAAAJ&hl=zh-CN&oi=sra). My research interests include distributed machine learning, bilevel optimization, robust optimization, and LLMs. I received the B.S. degree from Central South University, Changsha, China, in 2020. 
+I’m a Ph.D. student at the Department of Computer Sciences and Technology, [Tongji University](https://en.tongji.edu.cn/p/#/). My advisor is Prof. [Kai Yang](https://scholar.google.com/citations?user=irQuUaYAAAAJ&hl=zh-CN&oi=sra). My research interests include distributed machine learning, networking for AI, bilevel optimization, robust optimization, and LLMs. I received the B.S. degree from Central South University, Changsha, China, in 2020. 
 
 I was a visiting Ph.D. student at [Columbia University](https://www.columbia.edu/), under the guidance of Prof. [Xiaodong Wang](https://www.engineering.columbia.edu/faculty/xiaodong-wang).
 
