@@ -24,7 +24,7 @@ Published Works
 
 ***Y Jiao***, K Yang, et al. [Provably Convergent Federated Trilevel Learning](https://ojs.aaai.org/index.php/AAAI/article/view/29190). (**AAAI 2024**) 
 
-***Y Jiao***, X Wang, K Yang. [PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented Generation in Large Language Models via Bilevel Optimization](https://sigir2025.dei.unipd.it/call-full-papers.html). (**SIGIR 2025**)
+***Y Jiao***, X Wang, K Yang. [PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented Generation in Large Language Models via Bilevel Optimization](https://sigir2025.dei.unipd.it/call-full-papers.html). (**SIGIR 2025, oral presentation**)
 
 ***Y Jiao***, K Yang, et al. [TimeAutoAD: Autonomous Anomaly Detection With Self-Supervised Contrastive Loss for Multivariate Time Series](https://ieeexplore.ieee.org/abstract/document/9705079) [J]. **IEEE Transactions on Network Science and Engineering**, 2022, 9(3): 1604-1619. 
 
@@ -101,6 +101,8 @@ Outstanding Graduate of Central South University
 
 News
 ======
+[2025/07] I will give an oral presentation at SIGIR 2025 in Italy.
+
 [2025/05] One paper has been accepted at ICML 2025.
 
 [2025/04] One paper has been accepted at SIGIR 2025.
