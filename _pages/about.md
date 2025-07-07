@@ -38,19 +38,11 @@ S Dou, K Yang, ***Y Jiao***, C Qiu, K Ren. [Anomaly Detection in Event-triggered
 
 Conference & Journal Reviewers
 ======
-Reviewer at **NeurIPS 2023**.
+Reviewer at **NeurIPS 2023, 2024, 2025**.
 
-Reviewer at **NeurIPS 2024**.
+Reviewer at **ICLR 2024, 2025**. 
 
-Reviewer at **NeurIPS 2025**.
-
-Reviewer at **ICLR 2024**. 
-
-Reviewer at **ICLR 2025**. 
-
-Reviewer at **ICML 2024**. 
-
-Reviewer at **ICML 2025**. 
+Reviewer at **ICML 2024, 2025**. 
 
 Reviewer at **AISTATS 2025**. 
 
@@ -81,6 +73,8 @@ Reviewer at **IEEE Transactions on Intelligent Vehicles**.
 Reviewer at **IEEE Internet of Things Journal**. 
 
 Reviewer at **Pattern Recognition**. 
+
+Reviewer at **Neural Networks**.
 
 Reviewer at **Neurocomputing**. 
 
