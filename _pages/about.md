@@ -75,6 +75,8 @@ Reviewer at **IEEE Transactions on Intelligent Vehicles**.
 
 Reviewer at **IEEE Internet of Things Journal**. 
 
+Reviewer at **Mathematical Programming**.
+
 Reviewer at **Pattern Recognition**. 
 
 Reviewer at **Neural Networks**.
@@ -98,6 +100,8 @@ Outstanding Graduate of Central South University
 
 News
 ======
+[2025/03] Invited to serve as Reviewer in Mathematical Programming.
+
 [2025/07] I will give an oral presentation at SIGIR 2025 in Italy.
 
 [2025/05] One paper has been accepted at ICML 2025.
