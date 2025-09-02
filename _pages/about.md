@@ -100,7 +100,7 @@ Outstanding Graduate of Central South University
 
 News
 ======
-[2025/03] Invited to serve as Reviewer in Mathematical Programming.
+[2025/09] Invited to serve as Reviewer in Mathematical Programming.
 
 [2025/07] I will give an oral presentation at SIGIR 2025 in Italy.
 
