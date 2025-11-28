@@ -87,10 +87,13 @@ Reviewer at **Neurocomputing**.
 
 Awards
 ======
+National Scholarship for PhD students
 
 Outstanding Doctoral Scholarship at Tongji University
 
 Outstanding Ph.D. Student Short-Term  Overseas Research Funding at Tongji University
+
+Academic Pioneer Nomination Award at Tongji University
 
 Outstanding Student of Tongji University
 
