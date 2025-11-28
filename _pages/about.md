@@ -69,6 +69,8 @@ Reviewer at **IEEE Transactions on Mobile Computing**.
 
 Reviewer at **IEEE Transactions on Network Science and Engineering**. 
 
+Reviewer at **IEEE Transactions on Signal Processing**. 
+
 Reviewer at **IEEE Transactions on Emerging Topics in Computational Intelligence**. 
 
 Reviewer at **IEEE Transactions on Intelligent Vehicles**. 
@@ -100,6 +102,12 @@ Outstanding Graduate of Central South University
 
 News
 ======
+[2025/12] I am honored to receive the Academic Pioneer Nomination Award at Tongji University.
+
+[2025/11] I am honored to receive the National Scholarship for PhD students.
+
+[2025/11] Invited to serve as Reviewer in IEEE Transactions on Signal Processing.
+
 [2025/09] Invited to serve as Reviewer in Mathematical Programming.
 
 [2025/07] I will give an oral presentation at SIGIR 2025 in Italy.
