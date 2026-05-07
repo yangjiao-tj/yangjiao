@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Yang Jiao, an Assistant Professor at Southeast University. I obtained my Ph.D. degree from Tongji University under the supervision of Prof. [Kai Yang](https://scholar.google.com/citations?user=irQuUaYAAAAJ&hl=zh-CN&oi=sra). Along the way, I was a visiting scholar at Columbia University and CUHK Shenzhen, where I conducted joint academic training under the co-supervision of Prof. [Xiaodong Wang](https://www.engineering.columbia.edu/faculty/xiaodong-wang) and Prof. [Jianwei Huang](https://jianwei.cuhk.edu.cn/), respectively. My research interests include network+AI, distributed machine learning, bilevel and trilevel optimization, robust optimization, and LLMs.
+Hi! I’m Yang Jiao, an Assistant Professor at Southeast University. I obtained my Ph.D. degree from Tongji University under the supervision of Prof. [Kai Yang](https://scholar.google.com/citations?user=irQuUaYAAAAJ&hl=zh-CN&oi=sra). Additionally, I was a visiting scholar at Columbia University and CUHK Shenzhen, where I conducted joint academic training under the co-supervision of Prof. [Xiaodong Wang](https://www.engineering.columbia.edu/faculty/xiaodong-wang) and Prof. [Jianwei Huang](https://jianwei.cuhk.edu.cn/), respectively. My research interests include network+AI, distributed machine learning, bilevel and trilevel optimization, robust optimization, and LLMs.
 
 
 
@@ -22,7 +22,7 @@ Published Works
 
 [4] ***Y Jiao***, K Yang, et al. [Provably Convergent Federated Trilevel Learning](https://ojs.aaai.org/index.php/AAAI/article/view/29190). (**AAAI 2024, CCF-A**) 
 
-[5] ***Y Jiao***, X Wang, K Yang. [PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented Generation in Large Language Models via Bilevel Optimization](https://sigir2025.dei.unipd.it/call-full-papers.html). (**SIGIR 2025, CCF-A, oral presentation**)
+[5] ***Y Jiao***, X Wang, K Yang. [PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented Generation in Large Language Models via Bilevel Optimization](https://sigir2025.dei.unipd.it/call-full-papers.html). (**SIGIR 2025, CCF-A**)
 
 [6] ***Y Jiao***, K Yang, et al. [Federated Distributionally Robust Optimization with Non-Convex Objectives: Algorithm and Analysis](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)[J]. (**IEEE Transactions on Mobile Computing, CCF-A**), 2026. 
 
