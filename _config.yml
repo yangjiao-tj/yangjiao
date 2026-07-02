@@ -24,11 +24,11 @@ author:
   avatar           : "jiao.jpg"
   name             : "Yang Jiao"
   pronouns         : # example: "he/his"  
-  bio              : "Ph.D. student"
-  location         : "Shanghai"
-  employer         : "Tongji University"
+  bio              : "Assistant Professor"
+  location         : "Nanjing"
+  employer         : "Southeast University"
   uri              : # URL
-  email            : "yangjiao@tongji.edu.cn" 
+  email            : "yang.jiao@seu.edu.cn" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=tqa1KZAAAAAJ"
