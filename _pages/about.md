@@ -41,7 +41,7 @@ Published Works
 
 Conference & Journal Reviewers
 ======
-Reviewer at **NeurIPS 2023, 2024, 2025**.
+Reviewer at **NeurIPS 2023, 2024, 2025, 2026**.
 
 Reviewer at **ICLR 2024, 2025**. 
 
